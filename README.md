@@ -10,3 +10,4 @@
    3. Security: VMs provide a higher level of security as each VM has its own operating system and can be isolated from the host and other VMs. Containers provide less isolation, as they share the host operating system.
   
       
+![1](https://github.com/taps453/Docker/assets/142531682/0610ef40-6899-4f50-9d8b-0fa0e931daf3)
